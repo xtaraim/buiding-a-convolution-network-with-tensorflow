@@ -1,0 +1,2 @@
+# buiding-a-convolution-network-with-tensorflow
+The TensorFlow layers module provides a high-level API that makes it easy to construct a neural network. It provides methods that facilitate the creation of dense (fully connected) layers and convolutional layers, adding activation functions, and applying dropout regularization. In this project, you'll learn how to use layers to build a convolutional neural network model to recognize the handwritten digits in the MNIST data set.
